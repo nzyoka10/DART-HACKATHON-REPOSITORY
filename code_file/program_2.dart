@@ -24,11 +24,10 @@ void main(){
   print("Modulus of ${num1} and ${num2} = ${modulus(num1, num2)}");
   print("Square root of $number is: $squareRoot");
 
-
-
-  // print("Square root of ${num3} = ${square_root(square_root)}");
 }
 
+// ^  Functions
+// 
 // function to add the two numbers
 int addition(int num1, int num2){
   return (num1 + num2);
