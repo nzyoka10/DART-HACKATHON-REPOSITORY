@@ -19,8 +19,10 @@ void main(){
   
   print("Sum of ${num1} and ${num2} = ${addition(num1, num2)}");
   print("Subtraction of ${num1} and ${num2} = ${difference(num1, num2)}");
+
   print("Product of ${num1} and ${num2} = ${product(num1, num2)}");
   print("Division of ${num1} and ${num2} = ${divide(num1, num2)}");
+  
   print("Modulus of ${num1} and ${num2} = ${modulus(num1, num2)}");
   print("Square root of $number is: $squareRoot");
 
